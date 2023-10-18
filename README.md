@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishy7dm
 - 👀 I’m interested in pursuing Projects in AI/ML/DL...
-- 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on AI in BFSI esp FD.
 - 📫 How to reach me viswadeep.srivastava@gmail.com or add whatsapp  https://wa.me/qr/GAYPQVFZLHA6M1
 
